@@ -67,7 +67,7 @@ Especialista en arquitectura de flujos ETL, gestión de bases de datos relaciona
 |-------|-------------|
 | 📧 Email | simonvelezgd1@gmail.com |
 | 📱 WhatsApp | +57 314 877 9432 |
-| 🔗 LinkedIn | [linkedin.com/in/simonvelezgd1](https://linkedin.com/in/simonvelezgd1) |
+| 🔗 LinkedIn | [linkedin.com/in/simonvelezgd1](https://www.linkedin.com/in/simon-velez-b4b24030b/) |
 | 📍 Ubicación | Medellín, Colombia |
 
 ---
