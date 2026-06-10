@@ -1,4 +1,4 @@
-# Simón Vélez García 👨‍💻
+# Simón Vélez Palacio 👨‍💻
 
 <div align="center">
 
@@ -15,7 +15,7 @@
 
 ## 🚀 Sobre Mí
 
-**Desarrollador de Software | Analista de Datos | Ingeniero de Datos**
+**Desarrollador de Software | Analista de Datos |
 
 Especialista en arquitectura de flujos ETL, gestión de bases de datos relacionales y democratización de datos mediante visualizaciones estratégicas. Transformo datos complejos en activos estratégicos para el negocio.
 
